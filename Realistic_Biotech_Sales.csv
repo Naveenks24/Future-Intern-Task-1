@@ -1,0 +1,1001 @@
+order id,date,product,price,region,cities,profit,quantity
+04-072,16/08/2023,microarray scanner,53334,France,Paris,20016,1
+X2-433,17/08/2023,gene sequencer,276937,Italy,Rome,113438,1
+5w-421,17/08/2023,chromatography system,36160,USA,Miami,20290,1
+NT-041,19/08/2023,PCR machine,5698,USA,Atlanta,30501,10
+9r-239,19/08/2023,chromatography system,78484,France,Paris,49577,1
+V1-472,20/08/2023,chromatography system,51641,South Africa,Cape Town,30405,1
+Vu-778,21/08/2023,PCR machine,14219,Singapore,Singapore,120107,13
+Yn-629,21/08/2023,PCR machine,11415,USA,Los Angeles,75046,12
+XJ-563,22/08/2023,PCR machine,12023,USA,Chicago,40508,8
+qI-910,22/08/2023,mass spectrometer,168187,Qatar,Doha,80659,1
+Xd-855,22/08/2023,gene sequencer,228867,France,Paris,252000,2
+or-348,23/08/2023,spectrophotometer,10962,Germany,Frankfurt,21260,5
+4s-709,23/08/2023,PCR machine,15903,Spain,Madrid,98596,13
+Y3-954,24/08/2023,microarray scanner,80027,Spain,Madrid,105960,3
+pM-856,24/08/2023,centrifuge,11478,Argentina,Buenos Aires,57015,9
+6g-573,26/08/2023,flow cytometer,67021,France,Paris,100007,3
+H9-645,29/08/2023,spectrophotometer,3778,USA,New York,8657,6
+P4-677,30/08/2023,mass spectrometer,267320,France,Paris,256550,2
+EI-809,30/08/2023,microscope,18930,Germany,Frankfurt,71473,10
+4i-115,31/08/2023,centrifuge,13640,Germany,Frankfurt,34573,4
+KP-975,01/09/2023,microscope,29991,France,Paris,163485,11
+05-642,02/09/2023,microscope,18882,Sweden,Stockholm,97103,9
+12-796,02/09/2023,microarray scanner,68903,China,Beijing,109008,3
+30-096,02/09/2023,mass spectrometer,152086,USA,Denver,82279,1
+oQ-930,03/09/2023,microscope,39421,USA,San Francisco,48124,2
+Lc-475,04/09/2023,PCR machine,11514,India,Mumbai,33355,5
+pH-759,06/09/2023,mass spectrometer,208199,Australia,Melbourne,106455,1
+lQ-376,06/09/2023,chromatography system,67310,France,Paris,61880,2
+Kb-227,08/09/2023,electrophoresis system,4383,China,Beijing,27112,10
+2r-593,08/09/2023,flow cytometer,69652,Germany,Frankfurt,27277,1
+9m-712,08/09/2023,chromatography system,91050,South Korea,Seoul,235740,4
+65-138,09/09/2023,centrifuge,7716,China,Beijing,43521,10
+tA-014,10/09/2023,flow cytometer,94625,USA,Chicago,58848,1
+PZ-077,13/09/2023,centrifuge,3589,China,Hong Kong,4460,3
+HU-581,14/09/2023,electrophoresis system,3537,Argentina,Buenos Aires,16508,8
+WH-158,17/09/2023,centrifuge,7130,Austria,Vienna,4261,1
+cN-085,18/09/2023,microscope,20167,USA,Seattle,182976,14
+mg-601,18/09/2023,electrophoresis system,4821,China,Beijing,10885,4
+i4-579,20/09/2023,gene sequencer,448584,Qatar,Doha,271937,1
+82-888,20/09/2023,gene sequencer,204370,USA,San Francisco,77128,1
+yd-817,23/09/2023,flow cytometer,70586,Singapore,Singapore,44915,1
+9l-592,24/09/2023,microarray scanner,43096,France,Paris,16983,1
+5X-092,26/09/2023,PCR machine,20268,Singapore,Singapore,74892,10
+Pi-697,26/09/2023,PCR machine,20856,Singapore,Singapore,134952,14
+b9-748,27/09/2023,chromatography system,66619,USA,San Francisco,40506,1
+gb-690,27/09/2023,PCR machine,23010,Ethiopia,Addis Ababa,13744,1
+bf-201,28/09/2023,microarray scanner,66012,Chile,Santiago,32310,1
+71-199,28/09/2023,electrophoresis system,7862,USA,Seattle,20425,5
+cz-285,29/09/2023,flow cytometer,109866,France,Paris,107766,2
+04-163,30/09/2023,flow cytometer,104678,USA,Atlanta,94634,2
+pB-976,03/10/2023,spectrophotometer,5098,Singapore,Singapore,9422,3
+VQ-015,04/10/2023,microscope,26161,Argentina,Buenos Aires,161972,11
+9D-885,05/10/2023,mass spectrometer,328409,Ethiopia,Addis Ababa,151648,1
+pU-069,05/10/2023,spectrophotometer,6815,Australia,Melbourne,3492,1
+iD-456,05/10/2023,gene sequencer,381082,USA,San Francisco,233076,1
+mn-404,06/10/2023,microarray scanner,66236,Australia,Sydney,114105,3
+mI-166,06/10/2023,microarray scanner,62142,South Africa,Cape Town,23278,1
+6L-022,06/10/2023,electrophoresis system,3291,Germany,Frankfurt,13869,7
+0L-020,07/10/2023,mass spectrometer,229271,Ethiopia,Addis Ababa,91420,1
+6A-010,08/10/2023,electrophoresis system,5174,Singapore,Singapore,14203,6
+fa-162,08/10/2023,gene sequencer,296263,Australia,Sydney,158920,1
+76-119,09/10/2023,spectrophotometer,8700,Australia,Brisbane,19981,5
+0Z-800,09/10/2023,centrifuge,2640,USA,San Francisco,11673,10
+0y-815,10/10/2023,gene sequencer,389408,USA,Atlanta,220418,1
+a1-527,11/10/2023,flow cytometer,71328,India,Delhi,78132,2
+a9-343,11/10/2023,microscope,12108,USA,San Francisco,54576,7
+1S-015,12/10/2023,microarray scanner,52388,Canada,Vancouver,33847,1
+26-005,15/10/2023,electrophoresis system,2470,France,Paris,8495,8
+Rd-443,15/10/2023,chromatography system,68401,USA,New York,153826,4
+L3-968,15/10/2023,electrophoresis system,6643,Brazil,São Paulo,15695,6
+dn-778,15/10/2023,microscope,20319,France,Paris,187190,16
+7i-763,16/10/2023,PCR machine,24095,Singapore,Singapore,17825,2
+Z7-907,16/10/2023,gene sequencer,419937,Canada,Vancouver,151278,1
+Lz-719,16/10/2023,microscope,16491,USA,Atlanta,169575,18
+oZ-405,16/10/2023,microscope,16358,Spain,Madrid,109390,19
+63-485,17/10/2023,microarray scanner,41791,USA,Chicago,17018,1
+7p-152,19/10/2023,PCR machine,14199,Argentina,Buenos Aires,81417,15
+TM-936,22/10/2023,centrifuge,3826,China,Beijing,4042,2
+r5-331,22/10/2023,gene sequencer,481530,France,Paris,297518,1
+S7-909,22/10/2023,microscope,10655,India,Mumbai,38437,7
+xT-042,23/10/2023,centrifuge,14041,France,Paris,48699,7
+7N-356,23/10/2023,PCR machine,13149,Australia,Brisbane,60948,9
+uY-317,24/10/2023,chromatography system,82902,USA,Seattle,45755,1
+mG-468,24/10/2023,chromatography system,95566,Australia,Sydney,119733,3
+OF-172,24/10/2023,flow cytometer,111834,France,Paris,126399,2
+ln-676,26/10/2023,electrophoresis system,6195,France,Paris,11307,4
+rY-640,27/10/2023,spectrophotometer,9575,Canada,Vancouver,14554,4
+2O-733,28/10/2023,spectrophotometer,6075,Singapore,Singapore,7660,2
+nb-093,28/10/2023,spectrophotometer,10985,India,Delhi,23620,6
+rE-739,30/10/2023,mass spectrometer,115404,USA,Dallas,67217,1
+1Z-974,30/10/2023,PCR machine,10999,Singapore,Singapore,76204,11
+gC-808,02/11/2023,spectrophotometer,4893,Argentina,Buenos Aires,20386,8
+yI-045,02/11/2023,microscope,13764,Australia,Sydney,40165,5
+wY-455,02/11/2023,chromatography system,31025,Germany,Frankfurt,75567,4
+1q-710,02/11/2023,gene sequencer,300067,France,Paris,369786,2
+54-821,03/11/2023,microscope,34139,India,Mumbai,417297,19
+6e-276,04/11/2023,microarray scanner,53846,Australia,Sydney,64280,3
+PX-930,05/11/2023,centrifuge,13215,France,Paris,16385,2
+oP-954,05/11/2023,microscope,9104,Mexico,Mexico City,68846,18
+A6-679,06/11/2023,PCR machine,23701,Australia,Melbourne,169699,12
+5N-179,07/11/2023,mass spectrometer,173767,Colombia,Bogotá,183061,2
+16-948,08/11/2023,microarray scanner,65450,USA,Chicago,25767,1
+I4-418,09/11/2023,centrifuge,9668,France,Paris,3855,1
+RC-440,09/11/2023,chromatography system,59345,USA,Chicago,101874,4
+3g-962,10/11/2023,centrifuge,10306,Australia,Sydney,4862,1
+7i-643,10/11/2023,electrophoresis system,7216,USA,San Francisco,3689,1
+m6-940,11/11/2023,gene sequencer,293708,USA,Atlanta,159634,1
+c4-740,11/11/2023,microarray scanner,84379,France,Paris,95100,2
+i5-741,12/11/2023,microarray scanner,64933,USA,San Francisco,50319,2
+UM-345,14/11/2023,PCR machine,8707,Germany,Frankfurt,47341,14
+WX-613,14/11/2023,gene sequencer,457742,Australia,Melbourne,264451,1
+fR-427,14/11/2023,chromatography system,62291,France,Paris,63645,2
+KV-904,19/11/2023,centrifuge,6659,France,Paris,37821,9
+tZ-201,21/11/2023,centrifuge,10288,Italy,Rome,48830,9
+4Q-412,22/11/2023,microarray scanner,65215,France,Paris,67943,2
+1d-817,22/11/2023,gene sequencer,400742,India,Mumbai,180793,1
+o5-243,23/11/2023,microscope,28733,Argentina,Buenos Aires,104893,6
+u5-253,23/11/2023,spectrophotometer,6719,China,Beijing,19880,5
+1P-353,24/11/2023,electrophoresis system,5131,France,Paris,14734,8
+u8-676,29/11/2023,chromatography system,95145,Singapore,Singapore,149405,3
+Om-973,29/11/2023,microarray scanner,53650,France,Paris,41593,2
+07-108,29/11/2023,PCR machine,19262,India,Mumbai,114840,11
+5R-764,30/11/2023,gene sequencer,108501,Australia,Sydney,67612,1
+7c-107,01/12/2023,microscope,23881,France,Paris,73003,7
+Wf-764,01/12/2023,flow cytometer,82861,Netherlands,Amsterdam,76956,2
+19-927,02/12/2023,centrifuge,13528,India,Mumbai,78464,9
+ha-184,03/12/2023,centrifuge,12022,Netherlands,Amsterdam,47097,8
+D8-430,03/12/2023,microscope,18562,USA,Atlanta,9310,1
+74-857,04/12/2023,spectrophotometer,4374,Australia,Melbourne,13812,7
+85-411,04/12/2023,microscope,9128,South Korea,Seoul,55580,10
+OF-421,05/12/2023,mass spectrometer,171036,Qatar,Doha,71145,1
+2S-324,06/12/2023,PCR machine,20741,Japan,Tokyo,15701,2
+31-436,08/12/2023,microscope,28938,India,Mumbai,84329,5
+Iv-796,08/12/2023,PCR machine,14494,USA,Atlanta,61527,9
+s2-238,08/12/2023,microarray scanner,41984,Canada,Vancouver,33050,2
+L3-850,09/12/2023,mass spectrometer,252703,USA,Chicago,268585,2
+s0-437,09/12/2023,centrifuge,4721,France,Paris,24644,9
+33-431,12/12/2023,PCR machine,13625,Japan,Tokyo,69554,11
+2w-944,12/12/2023,flow cytometer,87778,USA,Chicago,36470,1
+qz-309,14/12/2023,mass spectrometer,349421,France,Paris,268332,2
+JZ-062,17/12/2023,centrifuge,11518,USA,Atlanta,37884,9
+32-750,17/12/2023,microscope,33151,USA,Atlanta,236035,15
+yw-938,17/12/2023,electrophoresis system,3148,South Korea,Seoul,9743,5
+jp-081,18/12/2023,spectrophotometer,13825,Singapore,Singapore,35923,4
+6p-346,20/12/2023,microarray scanner,88377,Argentina,Buenos Aires,37456,1
+A7-618,21/12/2023,spectrophotometer,14130,Switzerland,Zurich,21833,3
+H6-168,22/12/2023,flow cytometer,77724,Germany,Frankfurt,117221,3
+e3-223,23/12/2023,electrophoresis system,3815,USA,New York,5853,3
+ws-610,23/12/2023,microscope,28128,China,Hong Kong,105490,9
+Vp-676,23/12/2023,microscope,27014,Germany,Frankfurt,67855,6
+48-562,25/12/2023,spectrophotometer,9658,USA,Los Angeles,16310,4
+3H-025,25/12/2023,mass spectrometer,126543,France,Paris,73321,1
+WX-365,26/12/2023,spectrophotometer,6524,Germany,Frankfurt,21807,6
+YU-913,26/12/2023,PCR machine,19481,France,Paris,23928,2
+vM-000,27/12/2023,electrophoresis system,5349,South Korea,Seoul,3290,1
+OU-477,27/12/2023,gene sequencer,116756,Qatar,Doha,51319,1
+aF-799,27/12/2023,microscope,17192,USA,San Francisco,154052,20
+3A-437,27/12/2023,chromatography system,82593,France,Paris,45861,1
+C9-895,28/12/2023,flow cytometer,104242,Spain,Madrid,53561,1
+aD-117,28/12/2023,centrifuge,14800,Italy,Rome,36087,4
+0V-297,28/12/2023,spectrophotometer,10412,Australia,Sydney,44685,8
+QN-710,31/12/2023,microarray scanner,61471,USA,Dallas,29114,1
+P3-040,31/12/2023,electrophoresis system,4775,USA,Chicago,2291,1
+6c-964,02/01/2024,PCR machine,7560,Germany,Frankfurt,3487,1
+Rv-809,03/01/2024,microarray scanner,70227,Singapore,Singapore,65209,2
+22-302,03/01/2024,PCR machine,6541,USA,New York,4095,1
+1C-083,03/01/2024,PCR machine,23892,France,Paris,76318,9
+nm-440,04/01/2024,microarray scanner,52322,USA,Atlanta,81938,3
+ao-498,05/01/2024,chromatography system,50497,Spain,Madrid,24625,1
+41-174,05/01/2024,microscope,5246,Argentina,Buenos Aires,14737,5
+7e-017,06/01/2024,mass spectrometer,226588,USA,San Francisco,118506,1
+m3-609,07/01/2024,microscope,30340,Malaysia,Kuala Lumpur,152929,11
+S4-314,08/01/2024,mass spectrometer,185958,Australia,Sydney,78140,1
+E0-717,08/01/2024,microscope,23887,USA,Chicago,67993,7
+EN-316,08/01/2024,spectrophotometer,3133,USA,San Francisco,7917,4
+2J-625,10/01/2024,microarray scanner,60357,Argentina,Buenos Aires,86985,3
+4l-185,10/01/2024,PCR machine,14095,USA,San Francisco,95418,15
+11-517,11/01/2024,chromatography system,82239,France,Paris,29773,1
+lu-145,12/01/2024,electrophoresis system,7451,Qatar,Doha,25067,6
+G5-560,12/01/2024,gene sequencer,310888,China,Beijing,198432,1
+RS-447,12/01/2024,flow cytometer,114989,Germany,Frankfurt,176753,3
+C4-187,13/01/2024,flow cytometer,53723,USA,San Francisco,60695,2
+GE-437,14/01/2024,PCR machine,23339,France,Paris,88690,6
+20-005,15/01/2024,PCR machine,5239,South Korea,Seoul,16520,8
+fS-710,16/01/2024,chromatography system,70176,Qatar,Doha,44416,1
+PB-576,17/01/2024,gene sequencer,140082,Qatar,Doha,49919,1
+T9-388,17/01/2024,gene sequencer,282407,USA,New York,334280,2
+k4-109,22/01/2024,centrifuge,8436,USA,New York,3216,1
+9J-175,22/01/2024,electrophoresis system,3370,South Korea,Seoul,15625,9
+JL-099,22/01/2024,chromatography system,39389,France,Paris,15384,1
+UN-284,22/01/2024,spectrophotometer,5673,France,Paris,2622,1
+9S-193,23/01/2024,microscope,23751,Canada,Vancouver,211584,15
+1i-692,23/01/2024,centrifuge,9333,Australia,Melbourne,11180,2
+67-917,25/01/2024,microscope,35359,Spain,Madrid,215067,16
+8n-882,25/01/2024,spectrophotometer,11016,UAE,Dubai,20938,3
+SS-424,29/01/2024,chromatography system,72503,South Africa,Cape Town,139071,4
+uX-050,30/01/2024,centrifuge,11285,USA,San Francisco,5923,1
+un-771,30/01/2024,mass spectrometer,125668,Chile,Santiago,96420,2
+Al-075,06/02/2024,gene sequencer,424208,USA,New York,347992,2
+JS-225,06/02/2024,microarray scanner,80879,India,Mumbai,28675,1
+eA-087,07/02/2024,spectrophotometer,9468,India,Mumbai,10309,2
+yE-108,09/02/2024,PCR machine,15338,Argentina,Buenos Aires,73397,8
+6n-606,12/02/2024,spectrophotometer,10801,Qatar,Doha,11602,3
+43-134,12/02/2024,gene sequencer,298449,USA,Chicago,165674,1
+Z8-296,15/02/2024,centrifuge,12692,France,Paris,21580,3
+b6-706,16/02/2024,centrifuge,13608,France,Paris,47863,7
+24-950,17/02/2024,mass spectrometer,182121,France,Paris,98868,1
+14-903,17/02/2024,centrifuge,12582,USA,Atlanta,36507,5
+36-592,19/02/2024,PCR machine,21218,Netherlands,Amsterdam,99415,9
+T2-277,20/02/2024,microarray scanner,85150,France,Paris,78474,2
+uZ-243,20/02/2024,microarray scanner,46363,USA,New York,53641,2
+2Q-637,22/02/2024,spectrophotometer,14220,Qatar,Doha,7440,1
+8n-993,23/02/2024,PCR machine,15192,South Korea,Seoul,48857,6
+2v-760,24/02/2024,spectrophotometer,8906,South Africa,Cape Town,8809,2
+Hk-740,24/02/2024,flow cytometer,81264,USA,San Francisco,35209,1
+5d-379,26/02/2024,PCR machine,16754,India,Mumbai,42935,7
+02-765,29/02/2024,gene sequencer,409684,France,Paris,319265,2
+9H-113,29/02/2024,spectrophotometer,9503,France,Paris,38331,8
+8x-901,06/03/2024,gene sequencer,208571,USA,San Francisco,216683,2
+7y-123,08/03/2024,centrifuge,12091,France,Paris,36525,7
+2M-531,09/03/2024,flow cytometer,70407,USA,Seattle,37521,1
+EO-621,10/03/2024,electrophoresis system,6358,USA,San Francisco,24279,7
+Hj-466,11/03/2024,electrophoresis system,7697,France,Paris,9411,2
+p2-496,13/03/2024,flow cytometer,62868,Singapore,Singapore,71566,2
+05-536,15/03/2024,chromatography system,57822,Qatar,Doha,33025,1
+Xi-528,16/03/2024,flow cytometer,84832,France,Paris,71829,2
+6I-174,16/03/2024,microscope,20090,Singapore,Singapore,247036,19
+G0-370,18/03/2024,mass spectrometer,207658,Colombia,Bogotá,209090,2
+S9-353,18/03/2024,flow cytometer,118445,Sweden,Stockholm,50574,1
+ul-772,19/03/2024,chromatography system,64410,UAE,Dubai,114338,3
+P7-872,20/03/2024,mass spectrometer,161463,USA,New York,165995,2
+04-970,21/03/2024,gene sequencer,388072,Germany,Munich,148384,1
+0G-978,22/03/2024,PCR machine,23098,Qatar,Doha,136133,11
+88-933,22/03/2024,mass spectrometer,270741,Germany,Frankfurt,127763,1
+8s-280,23/03/2024,spectrophotometer,11672,France,Paris,21127,3
+y8-974,24/03/2024,microscope,24764,Japan,Tokyo,20460,2
+F7-731,26/03/2024,chromatography system,36432,France,Paris,41287,3
+Rm-035,27/03/2024,gene sequencer,146331,USA,Atlanta,67392,1
+4O-408,27/03/2024,centrifuge,4742,China,Beijing,4506,2
+24-162,28/03/2024,microarray scanner,70992,Qatar,Doha,57114,2
+CU-858,31/03/2024,flow cytometer,94237,India,Mumbai,39949,1
+0H-947,31/03/2024,mass spectrometer,334061,Argentina,Buenos Aires,393743,2
+9u-088,31/03/2024,centrifuge,11348,Spain,Madrid,51324,8
+66-205,01/04/2024,centrifuge,14848,Netherlands,Amsterdam,16096,2
+nj-905,04/04/2024,electrophoresis system,6563,France,Paris,25486,8
+4W-342,06/04/2024,PCR machine,24932,Kenya,Nairobi,94057,8
+Rz-279,08/04/2024,PCR machine,6776,Netherlands,Amsterdam,25882,9
+38-809,08/04/2024,mass spectrometer,164470,Thailand,Bangkok,95970,1
+O0-330,09/04/2024,flow cytometer,101354,USA,Chicago,193644,3
+AM-569,09/04/2024,microscope,22613,France,Paris,63640,6
+48-706,10/04/2024,PCR machine,6271,Australia,Sydney,33135,14
+cd-475,12/04/2024,gene sequencer,385371,France,Paris,274699,2
+6Q-996,13/04/2024,chromatography system,72833,Malaysia,Kuala Lumpur,39286,1
+1O-475,13/04/2024,PCR machine,5905,Australia,Sydney,13058,6
+F1-209,15/04/2024,microscope,16870,Denmark,Copenhagen,127046,18
+Vj-914,15/04/2024,mass spectrometer,250457,USA,Atlanta,196609,2
+54-535,16/04/2024,gene sequencer,367362,France,Paris,191578,1
+2A-900,16/04/2024,microscope,8214,Argentina,Buenos Aires,42039,9
+RG-493,19/04/2024,mass spectrometer,190275,Singapore,Singapore,80601,1
+w2-584,20/04/2024,PCR machine,21099,USA,San Francisco,96981,8
+At-904,20/04/2024,chromatography system,64201,Netherlands,Amsterdam,79081,2
+lf-635,21/04/2024,chromatography system,55384,USA,Atlanta,103635,4
+06-269,23/04/2024,centrifuge,3122,Ethiopia,Addis Ababa,3309,2
+c6-095,23/04/2024,PCR machine,10783,Australia,Sydney,43828,8
+hU-653,23/04/2024,spectrophotometer,12024,France,Paris,12811,2
+2O-179,28/04/2024,microscope,18417,Singapore,Singapore,117587,17
+HR-099,29/04/2024,PCR machine,17278,Japan,Tokyo,33706,4
+Xd-701,01/05/2024,microarray scanner,70738,France,Paris,36587,1
+rJ-614,01/05/2024,gene sequencer,446517,USA,San Francisco,281320,1
+UR-433,02/05/2024,PCR machine,18051,Qatar,Doha,29447,3
+1q-485,05/05/2024,electrophoresis system,7316,Germany,Frankfurt,42409,10
+OH-022,07/05/2024,PCR machine,11696,Qatar,Doha,84738,12
+Lj-992,07/05/2024,electrophoresis system,6263,USA,San Francisco,9238,3
+4p-974,08/05/2024,chromatography system,97816,Australia,Sydney,168859,3
+3i-997,09/05/2024,microscope,16526,Germany,Frankfurt,69943,11
+R6-991,09/05/2024,PCR machine,20861,South Korea,Seoul,101230,11
+4j-028,09/05/2024,microarray scanner,45217,Australia,Sydney,39185,2
+1P-202,10/05/2024,chromatography system,31595,USA,Miami,46645,3
+Uq-069,10/05/2024,microarray scanner,83165,USA,New York,48606,1
+qQ-853,10/05/2024,spectrophotometer,12082,Brazil,São Paulo,31218,4
+ef-283,12/05/2024,gene sequencer,440608,Australia,Melbourne,514969,2
+36-700,12/05/2024,centrifuge,8830,Italy,Rome,25107,8
+5Q-457,12/05/2024,flow cytometer,65268,Brazil,São Paulo,69453,3
+mb-154,14/05/2024,electrophoresis system,5848,France,Paris,29915,9
+d0-456,15/05/2024,centrifuge,7178,Singapore,Singapore,4350,1
+j0-118,18/05/2024,microarray scanner,81074,South Korea,Seoul,99725,2
+5p-643,18/05/2024,centrifuge,3683,France,Paris,14894,9
+Q3-553,19/05/2024,microscope,15092,USA,San Francisco,48396,5
+81-224,20/05/2024,centrifuge,7114,Singapore,Singapore,23735,6
+q8-593,22/05/2024,PCR machine,13456,India,Mumbai,91412,13
+1I-076,23/05/2024,microarray scanner,45094,Qatar,Doha,24611,1
+Dl-160,24/05/2024,flow cytometer,86537,France,Paris,129275,3
+Z7-809,28/05/2024,chromatography system,88716,Kenya,Nairobi,139379,4
+Qz-144,29/05/2024,mass spectrometer,188013,France,Paris,90309,1
+WB-350,31/05/2024,flow cytometer,86299,Spain,Madrid,94910,2
+sw-762,31/05/2024,chromatography system,98894,USA,San Francisco,139185,4
+xv-990,02/06/2024,flow cytometer,56267,France,Paris,31381,1
+JD-664,03/06/2024,centrifuge,4297,USA,Atlanta,12357,7
+7m-507,03/06/2024,flow cytometer,60219,USA,San Francisco,25634,1
+5f-114,04/06/2024,centrifuge,9710,France,Paris,24067,4
+1A-717,04/06/2024,microarray scanner,54668,Malaysia,Kuala Lumpur,30986,1
+9r-882,08/06/2024,chromatography system,62372,France,Paris,88190,3
+YQ-157,10/06/2024,gene sequencer,164613,Singapore,Singapore,90034,1
+3O-353,11/06/2024,flow cytometer,119768,Denmark,Copenhagen,47211,1
+Dz-040,11/06/2024,chromatography system,37881,France,Paris,96378,4
+hs-672,13/06/2024,centrifuge,6134,France,Paris,3504,1
+0I-661,14/06/2024,chromatography system,86311,France,Paris,53434,1
+Pd-075,15/06/2024,chromatography system,58664,South Korea,Seoul,76463,3
+44-961,17/06/2024,chromatography system,45453,India,Mumbai,55865,3
+4j-464,18/06/2024,gene sequencer,217762,Singapore,Singapore,91945,1
+iM-735,18/06/2024,flow cytometer,53688,Singapore,Singapore,23311,1
+Kp-301,18/06/2024,chromatography system,82104,India,Mumbai,88736,3
+Jf-187,22/06/2024,microarray scanner,70722,France,Paris,75302,2
+4d-367,23/06/2024,electrophoresis system,5802,USA,Seattle,30032,8
+3c-448,23/06/2024,electrophoresis system,4786,Singapore,Singapore,12334,5
+i0-853,23/06/2024,centrifuge,10416,Singapore,Singapore,41725,10
+JY-301,24/06/2024,mass spectrometer,142270,Brazil,São Paulo,111390,2
+0B-385,24/06/2024,spectrophotometer,8674,France,Paris,29575,8
+2n-881,25/06/2024,chromatography system,83151,France,Paris,77957,2
+M7-942,27/06/2024,flow cytometer,54194,USA,Boston,27058,1
+04-978,27/06/2024,centrifuge,8306,Japan,Tokyo,21333,5
+vf-974,27/06/2024,mass spectrometer,312166,USA,San Francisco,128352,1
+44-319,28/06/2024,chromatography system,68244,Ethiopia,Addis Ababa,112330,4
+p9-854,28/06/2024,electrophoresis system,5692,USA,New York,30189,10
+gi-420,29/06/2024,flow cytometer,110768,China,Hong Kong,69211,1
+5M-376,30/06/2024,gene sequencer,183733,Qatar,Doha,178637,2
+1L-971,30/06/2024,PCR machine,7986,Germany,Frankfurt,8563,2
+1z-028,30/06/2024,microarray scanner,66113,Qatar,Doha,24181,1
+om-501,01/07/2024,mass spectrometer,279662,China,Beijing,237114,2
+rI-077,01/07/2024,microscope,39119,France,Paris,48981,3
+uN-644,03/07/2024,mass spectrometer,321577,Kenya,Nairobi,168773,1
+Cr-275,03/07/2024,microscope,28952,Kenya,Nairobi,137620,9
+BN-973,05/07/2024,flow cytometer,66013,USA,San Francisco,71746,2
+w3-239,05/07/2024,microarray scanner,59384,USA,Atlanta,34880,1
+U6-267,06/07/2024,gene sequencer,294034,USA,Chicago,250184,2
+Fb-203,07/07/2024,microscope,19794,Qatar,Doha,49219,7
+Py-480,08/07/2024,electrophoresis system,3118,France,Paris,17463,10
+uY-929,08/07/2024,microarray scanner,69276,France,Paris,75451,3
+1g-157,08/07/2024,centrifuge,10698,Japan,Tokyo,55220,10
+4g-742,10/07/2024,microarray scanner,87836,USA,Denver,85893,2
+6A-070,10/07/2024,gene sequencer,279029,USA,San Francisco,159769,1
+iX-065,10/07/2024,PCR machine,9393,Singapore,Singapore,52188,11
+6b-531,11/07/2024,electrophoresis system,7430,Ethiopia,Addis Ababa,18211,7
+05-263,11/07/2024,flow cytometer,68410,Qatar,Doha,29107,1
+0V-174,12/07/2024,gene sequencer,122387,Thailand,Bangkok,95762,2
+26-889,12/07/2024,chromatography system,52819,Australia,Melbourne,131385,4
+oG-794,13/07/2024,mass spectrometer,202092,Austria,Vienna,230700,2
+Uk-132,14/07/2024,centrifuge,2686,India,Mumbai,6767,5
+k3-172,14/07/2024,chromatography system,33833,France,Paris,17763,1
+Ws-506,15/07/2024,mass spectrometer,348585,USA,Chicago,336789,2
+9a-403,16/07/2024,spectrophotometer,10128,Ethiopia,Addis Ababa,32526,6
+6p-772,16/07/2024,electrophoresis system,3124,Argentina,Buenos Aires,9280,5
+Y7-186,16/07/2024,flow cytometer,74054,USA,San Francisco,28678,1
+Z5-302,18/07/2024,microarray scanner,75663,USA,Chicago,45807,1
+09-080,19/07/2024,electrophoresis system,5868,Denmark,Copenhagen,26166,10
+ei-418,19/07/2024,electrophoresis system,6516,Australia,Melbourne,23018,9
+JO-725,20/07/2024,centrifuge,12987,Italy,Rome,11662,2
+IH-976,21/07/2024,mass spectrometer,226078,Argentina,Buenos Aires,133122,1
+eG-887,22/07/2024,chromatography system,99865,Singapore,Singapore,89821,2
+Zx-902,23/07/2024,gene sequencer,130853,France,Paris,50833,1
+32-214,24/07/2024,centrifuge,4775,China,Beijing,1872,1
+uA-935,25/07/2024,electrophoresis system,6676,China,Beijing,17006,5
+8j-552,26/07/2024,microarray scanner,68261,USA,Chicago,49438,2
+l6-448,26/07/2024,mass spectrometer,133367,Germany,Frankfurt,131879,2
+2l-408,27/07/2024,electrophoresis system,6069,France,Paris,21221,6
+52-219,27/07/2024,centrifuge,9684,France,Paris,41959,8
+Q4-060,27/07/2024,centrifuge,8578,Thailand,Bangkok,36179,8
+fz-318,30/07/2024,mass spectrometer,240370,France,Paris,140837,1
+3u-236,31/07/2024,centrifuge,2706,Argentina,Buenos Aires,1516,1
+7T-181,31/07/2024,centrifuge,13866,USA,Atlanta,13303,2
+A5-280,01/08/2024,electrophoresis system,4082,Japan,Tokyo,16244,7
+1J-546,02/08/2024,microscope,24310,France,Paris,43565,5
+5d-719,02/08/2024,microarray scanner,41880,USA,Atlanta,52638,2
+cy-321,02/08/2024,microscope,11528,France,Paris,32859,6
+s8-124,02/08/2024,gene sequencer,131738,Australia,Sydney,116340,2
+50-466,03/08/2024,electrophoresis system,7378,USA,San Francisco,22955,7
+82-256,05/08/2024,chromatography system,31006,China,Beijing,12716,1
+Is-778,06/08/2024,spectrophotometer,4890,Argentina,Buenos Aires,14153,8
+j3-195,07/08/2024,flow cytometer,57111,USA,Dallas,20461,1
+j5-647,08/08/2024,chromatography system,67226,USA,Atlanta,92594,3
+F8-513,10/08/2024,PCR machine,23015,Germany,Frankfurt,157467,11
+18-309,12/08/2024,centrifuge,12188,Australia,Melbourne,51348,10
+6n-735,13/08/2024,gene sequencer,203846,Italy,Rome,91630,1
+Rv-219,14/08/2024,flow cytometer,64341,USA,New York,33293,1
+3W-977,15/08/2024,flow cytometer,111941,Qatar,Doha,108323,2
+j0-439,17/08/2024,electrophoresis system,7485,India,Mumbai,8240,2
+Sq-968,18/08/2024,spectrophotometer,4503,USA,Atlanta,7527,3
+7k-883,18/08/2024,electrophoresis system,4891,USA,Atlanta,5368,2
+86-935,19/08/2024,PCR machine,16741,France,Paris,40774,5
+7f-881,20/08/2024,microscope,21521,Singapore,Singapore,93398,11
+3j-673,20/08/2024,gene sequencer,192464,France,Paris,188468,2
+3H-057,22/08/2024,microarray scanner,74002,India,Mumbai,80657,2
+8U-565,23/08/2024,PCR machine,20695,USA,New York,46287,4
+CM-713,26/08/2024,electrophoresis system,6291,Argentina,Buenos Aires,19024,6
+C9-254,26/08/2024,PCR machine,5336,France,Paris,33974,12
+nM-067,01/09/2024,gene sequencer,142544,Kenya,Nairobi,153241,2
+iD-734,01/09/2024,mass spectrometer,247469,USA,Chicago,246257,2
+nW-329,01/09/2024,gene sequencer,477997,UAE,Dubai,411150,2
+1N-860,02/09/2024,flow cytometer,86535,Sweden,Stockholm,144830,3
+mf-017,02/09/2024,chromatography system,98067,France,Paris,125495,3
+iG-079,03/09/2024,microarray scanner,53955,Singapore,Singapore,79578,3
+1V-069,03/09/2024,flow cytometer,98370,UAE,Dubai,181850,3
+Tj-052,04/09/2024,chromatography system,83874,USA,San Francisco,48087,1
+2N-572,06/09/2024,spectrophotometer,6605,France,Paris,4922,2
+h5-543,08/09/2024,microscope,10991,USA,New York,53083,13
+9p-572,08/09/2024,mass spectrometer,207123,Qatar,Doha,261678,2
+Jf-534,08/09/2024,centrifuge,2583,India,Mumbai,1510,1
+64-017,09/09/2024,centrifuge,5617,France,Paris,8062,4
+vo-804,12/09/2024,microscope,21612,France,Paris,202445,18
+1w-781,14/09/2024,PCR machine,5962,Singapore,Singapore,29171,12
+98-221,14/09/2024,spectrophotometer,5116,USA,Chicago,22170,8
+nE-817,16/09/2024,chromatography system,86439,Netherlands,Amsterdam,67498,2
+0H-555,16/09/2024,flow cytometer,65115,Italy,Rome,26603,1
+93-079,18/09/2024,chromatography system,34268,USA,Atlanta,56455,4
+97-308,18/09/2024,gene sequencer,432339,Germany,Frankfurt,258264,1
+9Y-804,20/09/2024,centrifuge,7714,Germany,Frankfurt,14929,3
+Yu-251,21/09/2024,centrifuge,14719,Colombia,Bogotá,41917,7
+JA-052,22/09/2024,chromatography system,33387,USA,San Francisco,27213,2
+Xu-417,22/09/2024,spectrophotometer,6613,USA,Chicago,2343,1
+9H-216,23/09/2024,PCR machine,20781,China,Beijing,121260,9
+Rp-271,23/09/2024,flow cytometer,104350,India,Delhi,104517,2
+n3-759,24/09/2024,centrifuge,8993,Argentina,Buenos Aires,27551,6
+5w-604,25/09/2024,PCR machine,15690,China,Beijing,78911,11
+Ss-737,27/09/2024,spectrophotometer,14227,South Korea,Seoul,23293,4
+2n-169,27/09/2024,mass spectrometer,168027,USA,Atlanta,73257,1
+4r-402,27/09/2024,flow cytometer,81755,Australia,Melbourne,139613,3
+7g-559,28/09/2024,chromatography system,30164,Singapore,Singapore,50570,4
+w2-533,30/09/2024,spectrophotometer,7133,Qatar,Doha,10795,4
+BL-684,01/10/2024,gene sequencer,418621,France,Paris,513156,2
+WB-111,01/10/2024,mass spectrometer,244465,Colombia,Bogotá,111689,1
+Qy-468,04/10/2024,electrophoresis system,2232,USA,Atlanta,2498,2
+vK-452,05/10/2024,mass spectrometer,243567,USA,San Francisco,307668,2
+7t-072,08/10/2024,flow cytometer,55393,Germany,Munich,40213,2
+N2-157,08/10/2024,PCR machine,15662,Spain,Madrid,98821,10
+Eh-166,10/10/2024,spectrophotometer,7516,Australia,Sydney,26101,7
+6N-726,11/10/2024,gene sequencer,107285,Australia,Melbourne,85566,2
+ul-857,12/10/2024,gene sequencer,150494,Singapore,Singapore,67683,1
+P4-317,14/10/2024,electrophoresis system,7547,Qatar,Doha,31169,7
+Wx-404,15/10/2024,gene sequencer,339705,France,Paris,350169,2
+a1-101,15/10/2024,microarray scanner,83851,Germany,Frankfurt,157366,3
+42-626,16/10/2024,electrophoresis system,2375,France,Paris,2021,2
+XO-567,19/10/2024,electrophoresis system,4781,Denmark,Copenhagen,1912,1
+Y4-880,19/10/2024,chromatography system,59796,UAE,Dubai,45773,2
+y8-987,19/10/2024,chromatography system,77365,USA,Atlanta,68291,2
+6z-224,19/10/2024,microscope,21941,USA,San Francisco,198088,20
+tB-897,21/10/2024,mass spectrometer,189382,Singapore,Singapore,81229,1
+ke-523,23/10/2024,spectrophotometer,4566,South Korea,Seoul,13440,8
+Xh-239,23/10/2024,chromatography system,43549,USA,Chicago,49914,2
+q3-916,25/10/2024,mass spectrometer,175833,Ethiopia,Addis Ababa,140618,2
+92-851,25/10/2024,chromatography system,56403,India,Mumbai,83757,3
+3x-171,26/10/2024,spectrophotometer,3825,Brazil,São Paulo,12401,8
+U0-302,27/10/2024,flow cytometer,51139,Argentina,Buenos Aires,64795,2
+5l-601,28/10/2024,gene sequencer,114107,China,Beijing,54208,1
+MJ-519,31/10/2024,spectrophotometer,8455,Spain,Madrid,14836,5
+2o-353,31/10/2024,chromatography system,75591,Singapore,Singapore,86086,2
+Da-192,31/10/2024,centrifuge,11285,USA,Chicago,5237,1
+RQ-930,31/10/2024,chromatography system,43509,USA,Atlanta,73905,3
+OA-521,31/10/2024,mass spectrometer,141037,Japan,Tokyo,65160,1
+1R-498,31/10/2024,chromatography system,98827,France,Paris,52970,1
+Fi-812,02/11/2024,chromatography system,73085,Ethiopia,Addis Ababa,104883,4
+n6-000,04/11/2024,flow cytometer,78938,Germany,Frankfurt,72960,2
+rQ-920,07/11/2024,gene sequencer,204076,France,Paris,247378,2
+ex-379,07/11/2024,spectrophotometer,14697,USA,Chicago,11211,2
+iR-174,07/11/2024,gene sequencer,80780,Germany,Frankfurt,39895,1
+90-132,07/11/2024,microscope,13138,Australia,Sydney,19762,4
+IQ-723,12/11/2024,spectrophotometer,5115,France,Paris,19450,8
+i5-205,12/11/2024,gene sequencer,246532,USA,Atlanta,142522,1
+c1-690,13/11/2024,chromatography system,30667,Qatar,Doha,44033,3
+W2-645,16/11/2024,gene sequencer,428904,India,Mumbai,228503,1
+ho-912,16/11/2024,microarray scanner,54804,France,Paris,65408,2
+35-443,17/11/2024,microarray scanner,84934,France,Paris,126877,3
+ME-846,18/11/2024,microarray scanner,79163,Denmark,Copenhagen,30720,1
+xL-829,18/11/2024,centrifuge,12913,China,Beijing,45975,9
+9h-319,19/11/2024,spectrophotometer,3467,France,Paris,1422,1
+i8-285,19/11/2024,chromatography system,84916,USA,Atlanta,165767,4
+BJ-648,20/11/2024,microscope,12154,Ethiopia,Addis Ababa,69662,9
+RK-419,21/11/2024,microarray scanner,86630,France,Paris,53419,1
+Xw-970,22/11/2024,centrifuge,7486,USA,Chicago,23870,6
+Sg-730,25/11/2024,spectrophotometer,4160,France,Paris,15214,8
+7M-312,27/11/2024,microscope,27446,Australia,Sydney,17781,1
+Sa-423,28/11/2024,PCR machine,19682,USA,Atlanta,174974,15
+j6-302,29/11/2024,flow cytometer,95195,South Korea,Seoul,49007,1
+E4-796,29/11/2024,mass spectrometer,159299,Denmark,Copenhagen,85254,1
+xB-994,29/11/2024,centrifuge,5482,South Korea,Seoul,10242,4
+oz-769,30/11/2024,electrophoresis system,4897,Singapore,Singapore,29282,10
+R1-850,30/11/2024,chromatography system,50047,USA,Atlanta,112135,4
+Bt-398,01/12/2024,microscope,32565,Qatar,Doha,100679,6
+7u-022,04/12/2024,mass spectrometer,235648,USA,Atlanta,201672,2
+J1-457,06/12/2024,gene sequencer,285965,Austria,Vienna,351294,2
+U6-829,06/12/2024,electrophoresis system,4485,France,Paris,7814,4
+yT-241,07/12/2024,centrifuge,6354,Qatar,Doha,8168,2
+p8-863,09/12/2024,microarray scanner,63132,USA,New York,113300,3
+E5-968,10/12/2024,mass spectrometer,345827,France,Paris,181161,1
+7v-501,13/12/2024,centrifuge,11946,USA,Chicago,60678,10
+EQ-505,15/12/2024,gene sequencer,333517,South Korea,Seoul,175755,1
+k4-068,16/12/2024,microscope,26190,Denmark,Copenhagen,84691,5
+2L-196,16/12/2024,centrifuge,8498,Singapore,Singapore,21313,7
+9m-430,17/12/2024,gene sequencer,305293,Netherlands,Amsterdam,183369,1
+L0-005,18/12/2024,chromatography system,92993,Austria,Vienna,54436,1
+TB-002,18/12/2024,mass spectrometer,164625,France,Paris,99760,1
+0A-464,19/12/2024,PCR machine,20119,France,Paris,104311,13
+66-850,20/12/2024,flow cytometer,60744,Singapore,Singapore,58576,2
+5u-110,21/12/2024,microscope,38423,Argentina,Buenos Aires,284995,12
+L7-486,24/12/2024,flow cytometer,83259,Germany,Frankfurt,42578,1
+OH-508,24/12/2024,gene sequencer,267543,Qatar,Doha,136225,1
+pb-764,25/12/2024,flow cytometer,53253,USA,San Francisco,49002,2
+s7-495,26/12/2024,mass spectrometer,151924,France,Paris,162779,2
+ZO-634,27/12/2024,centrifuge,5688,South Africa,Johannesburg,21877,9
+Dd-948,27/12/2024,chromatography system,47812,Germany,Frankfurt,92506,4
+N6-609,28/12/2024,mass spectrometer,323809,China,Hong Kong,323601,2
+z4-588,01/01/2025,flow cytometer,59005,France,Paris,27145,1
+44-855,01/01/2025,microarray scanner,79336,USA,San Francisco,84903,2
+q4-789,01/01/2025,gene sequencer,299856,Argentina,Buenos Aires,218878,2
+07-179,03/01/2025,mass spectrometer,346134,Netherlands,Amsterdam,428014,2
+q2-626,04/01/2025,chromatography system,85161,Japan,Tokyo,188582,4
+3D-504,04/01/2025,flow cytometer,101719,France,Paris,44431,1
+rH-816,05/01/2025,PCR machine,17701,France,Paris,41267,5
+pA-673,05/01/2025,chromatography system,65049,Kenya,Nairobi,37035,1
+85-904,05/01/2025,gene sequencer,300604,China,Beijing,168164,1
+48-077,06/01/2025,spectrophotometer,13236,France,Paris,30176,4
+C9-859,07/01/2025,gene sequencer,231708,Germany,Frankfurt,268172,2
+6a-601,10/01/2025,electrophoresis system,4511,France,Paris,19053,9
+3Q-676,11/01/2025,gene sequencer,472875,Canada,Vancouver,441954,2
+jc-019,12/01/2025,microarray scanner,56884,France,Paris,70022,2
+ui-604,13/01/2025,PCR machine,20313,USA,Chicago,72033,7
+Gx-249,15/01/2025,gene sequencer,142225,USA,Atlanta,67405,1
+7m-409,15/01/2025,microscope,20011,Australia,Brisbane,164298,16
+N9-825,15/01/2025,gene sequencer,360308,USA,Atlanta,434305,2
+rM-433,15/01/2025,electrophoresis system,3150,South Africa,Johannesburg,6765,6
+52-901,15/01/2025,electrophoresis system,3858,USA,New York,16263,8
+a7-778,15/01/2025,microscope,7304,France,Paris,53730,15
+4s-103,16/01/2025,centrifuge,3198,Qatar,Doha,16388,8
+H9-563,16/01/2025,microarray scanner,65419,Australia,Melbourne,72853,2
+9b-507,19/01/2025,spectrophotometer,7852,India,Delhi,3682,1
+nq-144,20/01/2025,flow cytometer,76164,India,Mumbai,108507,3
+38-194,20/01/2025,microarray scanner,86437,Australia,Melbourne,34399,1
+57-850,20/01/2025,electrophoresis system,4354,Denmark,Copenhagen,2085,1
+6v-896,21/01/2025,PCR machine,24138,Qatar,Doha,95877,8
+me-273,22/01/2025,centrifuge,7205,France,Paris,2616,1
+UP-648,23/01/2025,chromatography system,86974,Germany,Frankfurt,115450,3
+p2-037,24/01/2025,mass spectrometer,189343,Germany,Frankfurt,220293,2
+d7-179,24/01/2025,chromatography system,36769,France,Paris,19743,1
+Bz-155,27/01/2025,centrifuge,13605,Australia,Melbourne,24405,4
+lP-578,27/01/2025,microscope,35427,India,Delhi,81483,4
+lT-062,28/01/2025,spectrophotometer,5446,France,Paris,6025,3
+Sj-509,29/01/2025,centrifuge,11700,France,Paris,6774,1
+I4-561,29/01/2025,microarray scanner,88830,Sweden,Stockholm,33950,1
+g6-943,30/01/2025,PCR machine,5915,India,Mumbai,32956,10
+Br-853,30/01/2025,gene sequencer,454635,India,Mumbai,586257,2
+rI-218,31/01/2025,chromatography system,87837,Austria,Vienna,169160,4
+2y-907,02/02/2025,chromatography system,31149,Australia,Sydney,55510,3
+75-962,02/02/2025,mass spectrometer,143513,China,Beijing,79864,1
+94-386,04/02/2025,gene sequencer,419604,Argentina,Buenos Aires,408980,2
+13-033,08/02/2025,electrophoresis system,7396,USA,San Francisco,4461,1
+94-910,10/02/2025,microscope,35617,China,Hong Kong,276261,15
+uD-563,11/02/2025,electrophoresis system,2462,France,Paris,2223,2
+K7-428,11/02/2025,PCR machine,8890,Qatar,Doha,43332,8
+2y-011,12/02/2025,flow cytometer,90361,Canada,Toronto,67435,2
+Zp-249,13/02/2025,PCR machine,20171,Singapore,Singapore,71051,8
+Xb-243,13/02/2025,mass spectrometer,263923,USA,Miami,167967,1
+70-961,15/02/2025,spectrophotometer,8549,Qatar,Doha,4723,1
+k0-392,16/02/2025,electrophoresis system,7909,South Korea,Seoul,41446,9
+o6-336,16/02/2025,spectrophotometer,14366,Ethiopia,Addis Ababa,55336,7
+8k-572,17/02/2025,chromatography system,76056,South Africa,Johannesburg,122152,3
+uj-146,19/02/2025,spectrophotometer,8113,USA,Atlanta,4522,1
+Q7-515,19/02/2025,spectrophotometer,7188,France,Paris,19171,6
+ij-774,20/02/2025,chromatography system,35475,France,Paris,52665,4
+eb-911,22/02/2025,gene sequencer,237658,Singapore,Singapore,106847,1
+7a-651,23/02/2025,centrifuge,7832,Australia,Melbourne,35405,7
+Ou-506,24/02/2025,gene sequencer,479589,France,Paris,551401,2
+0k-037,24/02/2025,microscope,35738,Australia,Melbourne,199963,14
+2f-090,24/02/2025,chromatography system,99318,Ethiopia,Addis Ababa,164958,3
+WC-821,25/02/2025,mass spectrometer,113644,Germany,Frankfurt,44205,1
+9B-194,25/02/2025,chromatography system,69779,USA,Atlanta,102229,3
+07-361,25/02/2025,centrifuge,8974,China,Hong Kong,14808,3
+50-513,26/02/2025,spectrophotometer,3746,USA,San Francisco,15291,7
+xH-770,26/02/2025,mass spectrometer,280408,Germany,Frankfurt,298310,2
+1y-128,26/02/2025,flow cytometer,74641,Netherlands,Amsterdam,31152,1
+Pq-521,01/03/2025,electrophoresis system,6778,France,Paris,17544,7
+pz-770,03/03/2025,microarray scanner,66084,Ethiopia,Addis Ababa,71054,2
+R0-561,03/03/2025,electrophoresis system,6800,Australia,Melbourne,27845,9
+6K-928,05/03/2025,electrophoresis system,5467,France,Paris,6556,2
+Xs-334,05/03/2025,centrifuge,10195,USA,Atlanta,4473,1
+r6-942,06/03/2025,centrifuge,8710,France,Paris,23879,6
+nN-982,09/03/2025,flow cytometer,114951,Australia,Melbourne,164117,3
+T3-575,09/03/2025,microscope,35175,China,Beijing,270293,18
+16-511,10/03/2025,electrophoresis system,6411,Argentina,Buenos Aires,29546,8
+q7-529,11/03/2025,microarray scanner,57787,USA,New York,32408,1
+PC-615,12/03/2025,centrifuge,10839,Ethiopia,Addis Ababa,30933,7
+3i-382,14/03/2025,flow cytometer,99409,France,Paris,60044,1
+ha-982,14/03/2025,microarray scanner,57465,France,Paris,40629,2
+l3-149,15/03/2025,gene sequencer,246098,France,Paris,107111,1
+98-784,18/03/2025,chromatography system,72166,France,Paris,81696,2
+6B-946,18/03/2025,flow cytometer,95269,UAE,Dubai,40239,1
+eA-681,20/03/2025,microarray scanner,49456,France,Paris,46735,2
+qL-522,20/03/2025,electrophoresis system,4741,China,Beijing,16932,6
+5i-445,21/03/2025,microscope,28633,France,Paris,262136,19
+jJ-130,21/03/2025,gene sequencer,421942,Australia,Melbourne,160922,1
+3D-448,22/03/2025,microarray scanner,55869,Switzerland,Zurich,105581,3
+Ie-038,22/03/2025,chromatography system,94567,South Korea,Seoul,67870,2
+4V-870,23/03/2025,gene sequencer,485402,Japan,Tokyo,557067,2
+22-935,24/03/2025,flow cytometer,79315,France,Paris,102078,3
+iM-557,26/03/2025,spectrophotometer,11321,Singapore,Singapore,15558,3
+3M-423,27/03/2025,chromatography system,41159,Colombia,Bogotá,75128,3
+Zx-630,28/03/2025,electrophoresis system,3739,Germany,Frankfurt,12090,5
+j2-419,28/03/2025,microscope,8960,USA,San Francisco,66834,18
+8j-548,28/03/2025,centrifuge,3062,Singapore,Singapore,9124,8
+Ul-083,29/03/2025,flow cytometer,77821,Germany,Munich,126904,3
+Y0-862,30/03/2025,electrophoresis system,3065,USA,Miami,2416,2
+e2-882,30/03/2025,chromatography system,34284,France,Paris,57554,3
+42-996,01/04/2025,mass spectrometer,207774,India,Mumbai,103174,1
+IC-234,02/04/2025,centrifuge,11576,Ethiopia,Addis Ababa,31557,7
+LT-758,03/04/2025,electrophoresis system,7284,France,Paris,6767,2
+PN-149,04/04/2025,microscope,15691,France,Paris,116630,12
+Sk-156,04/04/2025,spectrophotometer,3643,USA,Chicago,18037,8
+2Z-218,05/04/2025,electrophoresis system,3219,India,Mumbai,9542,5
+d9-261,06/04/2025,microarray scanner,45341,France,Paris,50274,3
+02-903,07/04/2025,gene sequencer,91783,France,Paris,43334,1
+8g-704,07/04/2025,chromatography system,42950,USA,San Francisco,55002,2
+5n-061,08/04/2025,electrophoresis system,3886,USA,Los Angeles,2394,1
+e6-784,08/04/2025,chromatography system,90291,France,Paris,44393,1
+lg-112,08/04/2025,mass spectrometer,193924,France,Paris,162609,2
+Rs-543,08/04/2025,spectrophotometer,4827,China,Hong Kong,12113,6
+aF-021,08/04/2025,spectrophotometer,12977,Spain,Madrid,48910,6
+d9-393,09/04/2025,PCR machine,16029,India,Mumbai,70697,7
+sE-510,15/04/2025,microarray scanner,58533,Ethiopia,Addis Ababa,93392,3
+Rk-052,15/04/2025,flow cytometer,108913,USA,San Francisco,170951,3
+kK-962,19/04/2025,flow cytometer,111225,France,Paris,166765,3
+Ap-884,19/04/2025,mass spectrometer,259535,USA,New York,109548,1
+6L-077,20/04/2025,electrophoresis system,5653,Australia,Sydney,19795,6
+85-034,21/04/2025,PCR machine,16734,USA,New York,99434,12
+E2-430,21/04/2025,PCR machine,6909,USA,Chicago,5986,2
+p0-318,25/04/2025,spectrophotometer,3427,Germany,Frankfurt,6498,4
+3T-586,25/04/2025,microarray scanner,77979,USA,Chicago,34549,1
+A3-997,25/04/2025,flow cytometer,50868,Ethiopia,Addis Ababa,26380,1
+wM-041,26/04/2025,microscope,39701,Qatar,Doha,95737,4
+4c-356,26/04/2025,spectrophotometer,6400,USA,New York,11591,5
+48-927,27/04/2025,flow cytometer,72620,USA,San Francisco,40566,1
+tU-106,30/04/2025,centrifuge,9792,USA,Denver,12301,3
+s4-973,30/04/2025,PCR machine,15711,Egypt,Cairo,125127,14
+27-053,30/04/2025,microarray scanner,46253,Ethiopia,Addis Ababa,81133,3
+wr-823,30/04/2025,centrifuge,2168,USA,San Francisco,2413,2
+0n-512,30/04/2025,PCR machine,13325,USA,Atlanta,61266,8
+Bn-679,01/05/2025,microarray scanner,66728,China,Beijing,63311,2
+bM-469,02/05/2025,electrophoresis system,5025,Italy,Rome,18238,8
+eH-552,02/05/2025,gene sequencer,413762,South Africa,Johannesburg,202127,1
+yf-769,04/05/2025,flow cytometer,61426,Netherlands,Amsterdam,66693,3
+f4-580,05/05/2025,microarray scanner,42321,Qatar,Doha,60585,3
+gA-260,05/05/2025,centrifuge,12325,Japan,Tokyo,23772,4
+dm-814,06/05/2025,chromatography system,85335,Netherlands,Amsterdam,163075,4
+6Y-176,06/05/2025,centrifuge,11840,Australia,Brisbane,21445,4
+z3-215,07/05/2025,PCR machine,12136,Japan,Tokyo,62153,11
+bo-994,07/05/2025,microarray scanner,74369,USA,Atlanta,78638,2
+TN-691,07/05/2025,flow cytometer,106158,France,Paris,172127,3
+fl-640,09/05/2025,electrophoresis system,5389,South Korea,Seoul,27941,10
+E1-163,10/05/2025,microscope,39974,Qatar,Doha,338534,16
+t0-200,10/05/2025,gene sequencer,204741,USA,Chicago,158522,2
+B8-576,12/05/2025,spectrophotometer,12164,France,Paris,26215,4
+2l-368,15/05/2025,flow cytometer,105290,Australia,Melbourne,50300,1
+5R-023,15/05/2025,gene sequencer,270697,South Korea,Seoul,143750,1
+19-687,16/05/2025,electrophoresis system,3687,Japan,Tokyo,18342,8
+TQ-697,16/05/2025,mass spectrometer,186387,France,Paris,140664,2
+P6-215,17/05/2025,electrophoresis system,2678,China,Beijing,7530,6
+B2-208,18/05/2025,centrifuge,6969,France,Paris,10583,3
+N9-270,19/05/2025,centrifuge,2470,France,Paris,4518,3
+M5-137,22/05/2025,PCR machine,6237,Japan,Tokyo,20194,5
+3N-573,22/05/2025,chromatography system,96051,Qatar,Doha,183657,3
+8C-630,22/05/2025,gene sequencer,373491,Argentina,Buenos Aires,220043,1
+8Y-157,23/05/2025,PCR machine,8306,USA,Chicago,25171,5
+M7-108,24/05/2025,mass spectrometer,226914,Germany,Munich,251720,2
+wF-459,26/05/2025,PCR machine,24656,China,Beijing,69341,6
+Y2-278,26/05/2025,flow cytometer,84280,India,Mumbai,97686,3
+SN-866,27/05/2025,flow cytometer,96094,France,Paris,69306,2
+yh-889,27/05/2025,mass spectrometer,209863,Qatar,Doha,169328,2
+6I-609,29/05/2025,spectrophotometer,9529,China,Hong Kong,23924,5
+7a-568,29/05/2025,mass spectrometer,269563,UAE,Dubai,254011,2
+Z5-607,29/05/2025,chromatography system,94541,Qatar,Doha,108541,2
+WH-597,30/05/2025,gene sequencer,208171,USA,San Francisco,104220,1
+XN-964,01/06/2025,centrifuge,4848,France,Paris,18130,9
+fo-173,02/06/2025,spectrophotometer,8204,France,Paris,33222,8
+3B-327,03/06/2025,microscope,24931,USA,San Francisco,99997,7
+hX-540,06/06/2025,centrifuge,8495,France,Paris,13590,4
+3x-615,06/06/2025,mass spectrometer,137793,France,Paris,82411,1
+hn-864,06/06/2025,electrophoresis system,3618,Australia,Sydney,8207,5
+gM-370,07/06/2025,spectrophotometer,3024,China,Beijing,1705,1
+pH-948,10/06/2025,chromatography system,99592,Chile,Santiago,61736,1
+td-036,12/06/2025,chromatography system,75461,China,Beijing,135335,3
+M8-926,12/06/2025,centrifuge,7533,USA,Chicago,34912,8
+1n-623,13/06/2025,microscope,9237,Australia,Sydney,67517,12
+OV-554,14/06/2025,spectrophotometer,9846,Italy,Rome,27681,5
+w4-246,14/06/2025,chromatography system,79111,Singapore,Singapore,196924,4
+sV-816,14/06/2025,microscope,32112,Thailand,Bangkok,165216,9
+hX-791,15/06/2025,gene sequencer,403100,France,Paris,311746,2
+IW-655,16/06/2025,chromatography system,79518,Australia,Melbourne,193582,4
+67-293,16/06/2025,gene sequencer,257075,USA,Seattle,101344,1
+80-796,17/06/2025,chromatography system,96251,South Korea,Seoul,170090,3
+vV-523,18/06/2025,spectrophotometer,12745,Singapore,Singapore,29770,4
+pP-672,18/06/2025,chromatography system,59846,Argentina,Buenos Aires,93761,3
+F9-697,27/06/2025,flow cytometer,66040,USA,Atlanta,30910,1
+53-465,28/06/2025,flow cytometer,59220,France,Paris,65804,2
+Jp-206,28/06/2025,centrifuge,12036,India,Mumbai,4813,1
+uV-500,29/06/2025,centrifuge,6104,Germany,Munich,16097,7
+83-002,29/06/2025,mass spectrometer,327252,France,Paris,211695,1
+Up-828,29/06/2025,microarray scanner,78775,Qatar,Doha,90427,2
+7R-020,01/07/2025,electrophoresis system,4620,Singapore,Singapore,20834,8
+W9-952,02/07/2025,PCR machine,22949,Argentina,Buenos Aires,9816,1
+68-035,03/07/2025,flow cytometer,109567,Australia,Sydney,116496,2
+cZ-212,05/07/2025,flow cytometer,111449,France,Paris,149436,3
+pO-509,06/07/2025,chromatography system,79303,Australia,Melbourne,92255,3
+qJ-836,06/07/2025,microarray scanner,81808,France,Paris,102445,3
+hl-814,08/07/2025,centrifuge,10084,Australia,Melbourne,21385,4
+2M-988,08/07/2025,gene sequencer,398470,Qatar,Doha,158961,1
+5y-250,11/07/2025,electrophoresis system,6945,France,Paris,9797,4
+V1-455,12/07/2025,spectrophotometer,6222,France,Paris,2339,1
+6L-456,13/07/2025,chromatography system,95735,France,Paris,171570,4
+wX-931,14/07/2025,mass spectrometer,268104,France,Paris,220439,2
+2E-108,14/07/2025,flow cytometer,117529,Germany,Frankfurt,60638,1
+A4-511,15/07/2025,mass spectrometer,294905,France,Paris,237096,2
+fS-536,17/07/2025,chromatography system,68334,Australia,Sydney,108196,4
+7s-757,19/07/2025,chromatography system,43911,Germany,Frankfurt,53478,3
+v8-329,20/07/2025,centrifuge,5058,USA,San Francisco,6489,2
+qk-424,26/07/2025,microarray scanner,81793,Singapore,Singapore,42996,1
+Hv-945,29/07/2025,microscope,37726,USA,Chicago,121434,8
+wg-730,31/07/2025,PCR machine,12523,France,Paris,18284,4
+r4-412,31/07/2025,chromatography system,70211,USA,Atlanta,52281,2
+H8-518,01/08/2025,microscope,37113,USA,New York,382933,16
+NJ-823,01/08/2025,spectrophotometer,13083,France,Paris,9440,2
+3G-772,02/08/2025,flow cytometer,71685,Australia,Melbourne,55389,2
+5b-692,03/08/2025,spectrophotometer,8908,Germany,Frankfurt,43543,8
+qd-954,04/08/2025,microarray scanner,42058,Germany,Frankfurt,47147,2
+41-839,08/08/2025,chromatography system,67355,Ethiopia,Addis Ababa,35754,1
+lC-050,08/08/2025,spectrophotometer,14136,Argentina,Buenos Aires,17005,3
+2f-195,10/08/2025,PCR machine,15353,France,Paris,111338,13
+Yg-965,11/08/2025,PCR machine,13277,Ethiopia,Addis Ababa,56729,12
+sY-303,13/08/2025,microscope,5902,USA,Dallas,30403,9
+R1-497,13/08/2025,microarray scanner,74377,India,Mumbai,57748,2
+f6-680,17/08/2025,microarray scanner,76524,France,Paris,57030,2
+5F-680,17/08/2025,electrophoresis system,7148,Japan,Tokyo,24483,8
+ht-898,18/08/2025,centrifuge,3940,Canada,Vancouver,19439,10
+9s-971,23/08/2025,microarray scanner,87862,France,Paris,167264,3
+42-558,29/08/2025,microarray scanner,53701,USA,Atlanta,32345,1
+CP-984,29/08/2025,centrifuge,10073,Australia,Brisbane,13833,3
+aj-766,31/08/2025,gene sequencer,171578,Japan,Tokyo,83257,1
+6Q-573,03/09/2025,mass spectrometer,117985,USA,Los Angeles,71509,1
+Fq-018,04/09/2025,spectrophotometer,14546,France,Paris,49412,8
+4S-287,04/09/2025,microscope,23327,USA,New York,183052,16
+lJ-304,04/09/2025,flow cytometer,50805,USA,New York,49482,2
+Q0-615,05/09/2025,PCR machine,16021,France,Paris,145775,15
+m2-618,05/09/2025,chromatography system,52250,France,Paris,53300,2
+fK-769,07/09/2025,flow cytometer,54200,France,Paris,21044,1
+MP-087,07/09/2025,electrophoresis system,7304,Argentina,Buenos Aires,6549,2
+Zd-136,09/09/2025,flow cytometer,82706,USA,Atlanta,89363,2
+34-560,09/09/2025,mass spectrometer,280247,Ethiopia,Addis Ababa,180438,1
+Qh-649,13/09/2025,spectrophotometer,5738,Canada,Vancouver,12915,5
+Up-478,13/09/2025,PCR machine,20950,Singapore,Singapore,62838,6
+Rb-814,14/09/2025,electrophoresis system,4971,USA,Dallas,5753,2
+ue-749,14/09/2025,gene sequencer,456340,China,Beijing,259433,1
+Mv-855,17/09/2025,PCR machine,18729,USA,Los Angeles,48064,5
+qV-485,17/09/2025,spectrophotometer,14429,Singapore,Singapore,43312,7
+KU-973,17/09/2025,mass spectrometer,301077,France,Paris,350963,2
+2t-560,19/09/2025,spectrophotometer,12810,France,Paris,26867,5
+lD-108,21/09/2025,microarray scanner,84547,France,Paris,111326,3
+2k-244,23/09/2025,gene sequencer,207953,Australia,Sydney,264097,2
+Ul-761,26/09/2025,gene sequencer,222620,China,Hong Kong,131906,1
+Ns-499,28/09/2025,centrifuge,10066,Ethiopia,Addis Ababa,17251,3
+wh-721,01/10/2025,flow cytometer,108002,Australia,Melbourne,112375,2
+3V-912,01/10/2025,spectrophotometer,11849,India,Mumbai,48981,7
+95-024,01/10/2025,centrifuge,12052,Spain,Madrid,19125,3
+1d-368,05/10/2025,electrophoresis system,2413,France,Paris,13963,9
+NA-853,06/10/2025,spectrophotometer,4757,Singapore,Singapore,16577,7
+Y5-290,07/10/2025,mass spectrometer,308972,France,Paris,238091,2
+LF-281,07/10/2025,microscope,32475,Australia,Melbourne,95500,7
+Q4-528,11/10/2025,PCR machine,7196,USA,Chicago,53465,12
+hm-345,11/10/2025,centrifuge,13233,France,Paris,7696,1
+bg-273,14/10/2025,gene sequencer,343309,USA,Chicago,321092,2
+ar-901,16/10/2025,microarray scanner,65037,France,Paris,27819,1
+a4-671,17/10/2025,centrifuge,6169,France,Paris,8393,3
+i3-121,20/10/2025,microscope,15036,France,Paris,108962,19
+9L-314,20/10/2025,gene sequencer,444934,Argentina,Buenos Aires,360178,2
+66-244,21/10/2025,mass spectrometer,277005,France,Paris,259347,2
+VY-855,21/10/2025,spectrophotometer,5640,Malaysia,Kuala Lumpur,7030,2
+c2-221,22/10/2025,gene sequencer,146641,France,Paris,140544,2
+sD-055,27/10/2025,gene sequencer,402115,Ethiopia,Addis Ababa,478838,2
+5y-670,27/10/2025,PCR machine,7304,Qatar,Doha,35753,8
+iu-369,27/10/2025,gene sequencer,169178,Singapore,Singapore,108072,1
+gW-321,28/10/2025,chromatography system,96126,France,Paris,236023,4
+0x-221,29/10/2025,centrifuge,4251,USA,New York,10190,4
+99-061,29/10/2025,PCR machine,13520,Singapore,Singapore,35453,5
+95-422,30/10/2025,electrophoresis system,4456,Spain,Madrid,21674,10
+yL-533,30/10/2025,PCR machine,22061,Japan,Tokyo,99939,12
+wz-862,01/11/2025,spectrophotometer,14333,USA,Seattle,53978,8
+FX-217,02/11/2025,centrifuge,11842,Egypt,Cairo,45856,6
+n2-789,05/11/2025,electrophoresis system,3823,Argentina,Buenos Aires,2957,2
+LQ-341,06/11/2025,mass spectrometer,260662,India,Delhi,160297,1
+No-460,06/11/2025,centrifuge,12549,India,Mumbai,50611,9
+va-430,07/11/2025,chromatography system,30555,France,Paris,13386,1
+MG-533,07/11/2025,flow cytometer,89043,Canada,Vancouver,126683,3
+UZ-029,08/11/2025,flow cytometer,72790,Ethiopia,Addis Ababa,141752,3
+Yz-037,09/11/2025,mass spectrometer,289174,Ethiopia,Addis Ababa,156774,1
+Tb-048,09/11/2025,mass spectrometer,284239,Singapore,Singapore,148933,1
+71-955,11/11/2025,mass spectrometer,202954,Australia,Sydney,105045,1
+Gm-858,12/11/2025,centrifuge,3563,USA,Chicago,13200,9
+Yk-818,12/11/2025,electrophoresis system,7675,France,Paris,16490,4
+FL-351,13/11/2025,centrifuge,7366,Japan,Tokyo,22345,8
+P6-441,13/11/2025,mass spectrometer,148043,USA,Chicago,56501,1
+9i-209,15/11/2025,gene sequencer,194888,Australia,Melbourne,73150,1
+P5-014,17/11/2025,spectrophotometer,4312,USA,New York,6954,3
+3l-586,17/11/2025,centrifuge,2677,Argentina,Buenos Aires,3161,2
+18-019,18/11/2025,chromatography system,95627,France,Paris,141171,3
+ZL-627,19/11/2025,microarray scanner,73409,USA,Chicago,46092,1
+x2-096,19/11/2025,spectrophotometer,10656,Mexico,Mexico City,25046,6
+D4-811,22/11/2025,gene sequencer,440367,France,Paris,462532,2
+Ff-343,22/11/2025,flow cytometer,81161,Qatar,Doha,152766,3
+w6-835,23/11/2025,PCR machine,20053,South Korea,Seoul,42094,4
+Ae-884,25/11/2025,mass spectrometer,287632,Netherlands,Amsterdam,148482,1
+2O-472,26/11/2025,mass spectrometer,181256,South Korea,Seoul,188014,2
+rZ-561,26/11/2025,electrophoresis system,5250,France,Paris,9965,5
+1x-281,27/11/2025,mass spectrometer,275824,India,Mumbai,129044,1
+52-714,27/11/2025,mass spectrometer,234835,USA,Chicago,233131,2
+TH-468,28/11/2025,PCR machine,23556,China,Beijing,73429,7
+HD-940,29/11/2025,spectrophotometer,12073,France,Paris,49391,7
+H1-439,29/11/2025,centrifuge,8798,France,Paris,3580,1
+C9-953,30/11/2025,microscope,8850,Germany,Frankfurt,38970,11
+14-050,05/12/2025,microscope,26384,Singapore,Singapore,39837,3
+fo-475,05/12/2025,flow cytometer,106024,USA,Atlanta,129152,3
+0v-454,06/12/2025,flow cytometer,91227,UK,London,41844,1
+33-434,08/12/2025,mass spectrometer,104017,France,Paris,115458,2
+0w-695,12/12/2025,chromatography system,50065,France,Paris,24444,1
+ki-174,13/12/2025,centrifuge,5269,France,Paris,20285,6
+50-121,15/12/2025,microarray scanner,74044,France,Paris,139522,3
+q8-610,22/12/2025,chromatography system,72797,France,Paris,85762,3
+ol-134,22/12/2025,spectrophotometer,3697,USA,San Francisco,2083,1
+J2-967,25/12/2025,spectrophotometer,9931,France,Paris,44054,7
+Oe-627,25/12/2025,microscope,39598,France,Paris,112386,6
+IH-661,26/12/2025,microscope,11996,South Korea,Seoul,59560,10
+CR-843,26/12/2025,microscope,7040,USA,San Francisco,17779,5
+IX-899,26/12/2025,mass spectrometer,337745,Japan,Tokyo,212031,1
+Lz-660,28/12/2025,flow cytometer,76900,France,Paris,143888,3
+iF-913,30/12/2025,chromatography system,57746,USA,New York,56891,2
+76-196,01/01/2026,flow cytometer,97636,Singapore,Singapore,125829,2
+iO-928,02/01/2026,spectrophotometer,6997,USA,Miami,5371,2
+e1-318,03/01/2026,microscope,6278,USA,Miami,11320,4
+j2-093,04/01/2026,microscope,25547,France,Paris,150230,11
+JP-017,05/01/2026,microscope,24054,Kenya,Nairobi,67075,7
+Mj-388,09/01/2026,gene sequencer,380725,Ethiopia,Addis Ababa,228918,1
+7J-040,10/01/2026,centrifuge,9321,Ethiopia,Addis Ababa,20356,4
+Ci-001,12/01/2026,spectrophotometer,10805,Sweden,Stockholm,34330,8
+84-601,13/01/2026,gene sequencer,469311,USA,New York,591639,2
+GP-911,14/01/2026,PCR machine,18693,France,Paris,8340,1
+Sl-624,15/01/2026,microarray scanner,87705,France,Paris,126665,3
+aZ-568,16/01/2026,gene sequencer,86927,France,Paris,50427,1
+CI-230,17/01/2026,microarray scanner,52725,Netherlands,Amsterdam,19838,1
+wo-679,18/01/2026,centrifuge,6673,Austria,Vienna,4826,2
+or-755,19/01/2026,PCR machine,7162,Australia,Melbourne,36876,9
+32-666,19/01/2026,microscope,16362,Qatar,Doha,188120,18
+Ac-580,20/01/2026,microarray scanner,47783,Singapore,Singapore,54283,2
+hY-500,23/01/2026,microscope,25659,France,Paris,40950,3
+Ge-186,24/01/2026,mass spectrometer,158599,France,Paris,135678,2
+9a-386,24/01/2026,centrifuge,8494,Germany,Frankfurt,12565,4
+2Z-518,26/01/2026,centrifuge,11203,Qatar,Doha,18686,3
+K9-946,02/02/2026,mass spectrometer,220054,Netherlands,Amsterdam,249765,2
+6K-518,02/02/2026,microscope,36808,France,Paris,251385,15
+gn-238,04/02/2026,centrifuge,14435,Ethiopia,Addis Ababa,81505,10
+hp-499,04/02/2026,microscope,23287,France,Paris,91028,11
+0X-075,04/02/2026,gene sequencer,83978,Ethiopia,Addis Ababa,80659,2
+Lh-220,04/02/2026,mass spectrometer,186558,USA,Atlanta,161676,2
+58-330,06/02/2026,electrophoresis system,7519,Thailand,Bangkok,24656,7
+6F-440,06/02/2026,spectrophotometer,12429,Qatar,Doha,30239,5
+c9-071,07/02/2026,microarray scanner,77823,France,Paris,97445,2
+66-297,08/02/2026,chromatography system,60978,France,Paris,112743,4
+bA-614,09/02/2026,spectrophotometer,3972,USA,Atlanta,9648,4
+Iy-661,10/02/2026,microarray scanner,55646,Mexico,Mexico City,23160,1
+zi-150,10/02/2026,chromatography system,77953,USA,San Francisco,29159,1
+3z-813,10/02/2026,electrophoresis system,2402,New Zealand,Auckland,8703,6
+7w-777,10/02/2026,mass spectrometer,118878,Austria,Vienna,146808,2
+j6-948,12/02/2026,electrophoresis system,5460,Canada,Toronto,19609,9
+R8-184,12/02/2026,chromatography system,33990,Japan,Tokyo,59225,4
+FJ-693,14/02/2026,chromatography system,44144,France,Paris,59702,3
+b8-284,16/02/2026,microscope,38562,Brazil,São Paulo,137811,9
+Gl-175,16/02/2026,PCR machine,5043,South Korea,Seoul,18028,7
+U6-623,16/02/2026,electrophoresis system,3913,China,Beijing,13784,10
+LA-639,18/02/2026,mass spectrometer,192371,Japan,Tokyo,104383,1
+Ja-224,18/02/2026,chromatography system,92425,France,Paris,53693,1
+fi-071,19/02/2026,chromatography system,73575,USA,Chicago,67607,2
+lU-033,22/02/2026,flow cytometer,88079,Germany,Frankfurt,124391,3
+w1-141,22/02/2026,microscope,30447,China,Hong Kong,146290,10
+34-148,25/02/2026,PCR machine,16032,South Africa,Johannesburg,123506,14
+am-055,28/02/2026,mass spectrometer,143196,France,Paris,61754,1
+Kj-170,01/03/2026,chromatography system,83666,USA,New York,42723,1
+wW-971,01/03/2026,mass spectrometer,165357,Qatar,Doha,131351,2
+9g-944,02/03/2026,spectrophotometer,12300,USA,Dallas,12699,2
+S4-754,02/03/2026,spectrophotometer,9236,Japan,Tokyo,17797,4
+B8-762,02/03/2026,microscope,39274,France,Paris,477824,20
+2o-488,02/03/2026,PCR machine,7390,Australia,Melbourne,3886,1
+Sz-825,04/03/2026,flow cytometer,50789,Australia,Brisbane,42674,2
+ci-858,05/03/2026,chromatography system,65830,Egypt,Cairo,63170,2
+N7-096,07/03/2026,gene sequencer,213938,Brazil,São Paulo,131399,1
+7n-927,09/03/2026,chromatography system,71654,USA,New York,26822,1
+64-263,11/03/2026,flow cytometer,94572,Austria,Vienna,116846,3
+5z-743,12/03/2026,flow cytometer,74569,Peru,Lima,54457,2
+W1-040,12/03/2026,chromatography system,95567,USA,Dallas,214748,4
+t3-177,13/03/2026,electrophoresis system,4776,Ethiopia,Addis Ababa,9180,4
+a3-040,14/03/2026,centrifuge,5565,Argentina,Buenos Aires,12675,5
+Z4-689,14/03/2026,microscope,12710,Qatar,Doha,6287,1
+A0-020,15/03/2026,spectrophotometer,11761,Spain,Madrid,23921,4
+vE-125,15/03/2026,centrifuge,13668,Singapore,Singapore,76853,9
+48-945,15/03/2026,mass spectrometer,279030,USA,Chicago,238003,2
+uy-391,15/03/2026,microscope,26779,USA,San Francisco,9613,1
+In-928,16/03/2026,mass spectrometer,139872,USA,Chicago,71549,1
+Ze-933,17/03/2026,gene sequencer,494806,France,Paris,589678,2
+6t-977,18/03/2026,flow cytometer,86589,USA,Chicago,41205,1
+sx-117,20/03/2026,chromatography system,44626,France,Paris,43345,2
+rg-564,22/03/2026,centrifuge,6760,China,Beijing,34500,8
+nj-631,23/03/2026,mass spectrometer,226381,India,Mumbai,137598,1
+a1-799,24/03/2026,spectrophotometer,11073,Ethiopia,Addis Ababa,5309,1
+YT-180,25/03/2026,microarray scanner,71915,France,Paris,36113,1
+JR-678,25/03/2026,centrifuge,13852,France,Paris,8948,1
+TM-319,29/03/2026,spectrophotometer,12203,USA,Chicago,26519,5
+OW-609,31/03/2026,electrophoresis system,7651,Spain,Madrid,14400,4
+8S-265,31/03/2026,centrifuge,13664,India,Mumbai,46759,6
+8G-279,01/04/2026,centrifuge,14391,South Korea,Seoul,31224,6
+bo-600,01/04/2026,gene sequencer,231788,India,Mumbai,256533,2
+7X-554,02/04/2026,centrifuge,12462,France,Paris,5000,1
+Xj-448,02/04/2026,electrophoresis system,3008,USA,Chicago,5244,3
+X8-540,02/04/2026,microscope,14378,Canada,Vancouver,127529,14
+Fz-383,03/04/2026,spectrophotometer,5608,Qatar,Doha,2054,1
+MJ-426,04/04/2026,gene sequencer,260155,USA,San Francisco,186934,2
+53-171,05/04/2026,flow cytometer,87185,Ethiopia,Addis Ababa,108979,3
+W9-226,09/04/2026,microscope,2225,Qatar,Doha,1348,1
+63-096,09/04/2026,electrophoresis system,7063,France,Paris,17359,5
+co-764,10/04/2026,electrophoresis system,5314,India,Mumbai,13588,4
+ts-812,10/04/2026,electrophoresis system,6417,Spain,Madrid,24036,6
+sa-570,10/04/2026,gene sequencer,217511,Sweden,Stockholm,209997,2
+MT-641,11/04/2026,spectrophotometer,4263,South Africa,Cape Town,6839,4
+73-108,11/04/2026,microscope,21873,France,Paris,163016,12
+tq-912,13/04/2026,microarray scanner,57996,China,Beijing,101406,3
+46-033,13/04/2026,electrophoresis system,5643,USA,Atlanta,6998,3
+P4-537,14/04/2026,chromatography system,93516,Germany,Frankfurt,139901,3
+27-538,15/04/2026,flow cytometer,66669,Colombia,Bogotá,95166,3
+2M-504,16/04/2026,microscope,1924,France,Paris,4242,6
+u8-474,17/04/2026,microarray scanner,86433,USA,Chicago,45526,1
+z8-375,17/04/2026,microarray scanner,40286,Qatar,Doha,57147,3
+1O-862,20/04/2026,PCR machine,7229,Argentina,Buenos Aires,19573,7
+Wz-098,20/04/2026,flow cytometer,64368,France,Paris,70877,2
+Fm-673,21/04/2026,microarray scanner,50008,France,Paris,22823,1
+30-695,21/04/2026,microarray scanner,81912,Ethiopia,Addis Ababa,95996,2
+Yj-087,23/04/2026,centrifuge,7043,France,Paris,30479,10
+4a-042,24/04/2026,PCR machine,5723,USA,San Francisco,16090,7
+A0-669,25/04/2026,microscope,15349,USA,Atlanta,105574,11
+N1-774,25/04/2026,microscope,21997,USA,San Francisco,199361,17
+v1-227,28/04/2026,chromatography system,65070,USA,Chicago,71711,2
+bw-335,28/04/2026,microscope,2060,South Korea,Seoul,3957,5
+cR-685,30/04/2026,mass spectrometer,226725,France,Paris,264539,2
+6U-011,03/05/2026,centrifuge,12910,France,Paris,62720,8
+eI-843,05/05/2026,mass spectrometer,216356,USA,New York,87255,1
+ib-118,06/05/2026,mass spectrometer,203683,France,Paris,244805,2
+W7-671,07/05/2026,spectrophotometer,11737,Japan,Tokyo,31119,5
+oB-632,08/05/2026,centrifuge,10279,Spain,Madrid,24949,5
+37-212,08/05/2026,chromatography system,65453,France,Paris,61496,2
+G5-013,09/05/2026,microarray scanner,47612,Colombia,Bogotá,74590,3
+S5-077,10/05/2026,mass spectrometer,291155,France,Paris,205765,2
+LL-652,12/05/2026,spectrophotometer,11446,USA,San Francisco,50214,8
+uA-809,12/05/2026,microscope,34531,Qatar,Doha,31925,2
+ab-225,13/05/2026,centrifuge,10773,UAE,Dubai,13692,3
+J3-825,15/05/2026,microarray scanner,81947,Germany,Frankfurt,52637,1
+X2-351,16/05/2026,spectrophotometer,10763,India,Mumbai,11263,2
+3k-586,18/05/2026,gene sequencer,130298,USA,Atlanta,51638,1
+j1-522,19/05/2026,microarray scanner,77712,USA,San Francisco,49370,1
+y9-630,20/05/2026,microarray scanner,74742,Australia,Sydney,91527,3
+6d-500,21/05/2026,spectrophotometer,5164,China,Beijing,18825,8
+nV-643,21/05/2026,PCR machine,21023,USA,Chicago,139291,11
+I0-299,22/05/2026,spectrophotometer,11093,China,Hong Kong,23977,5
+59-000,23/05/2026,chromatography system,80695,France,Paris,90537,3
+gD-020,24/05/2026,centrifuge,11019,China,Beijing,49794,7
+Qm-507,24/05/2026,microscope,12278,USA,San Francisco,5857,1
+9p-237,27/05/2026,PCR machine,19906,France,Paris,49878,4
+OS-047,28/05/2026,centrifuge,3550,USA,San Francisco,1414,1
+Fb-643,28/05/2026,gene sequencer,80671,Argentina,Buenos Aires,69704,2
+ke-455,30/05/2026,electrophoresis system,4363,France,Paris,1632,1
+Hs-339,30/05/2026,chromatography system,67967,Argentina,Buenos Aires,38410,1
+mw-460,01/06/2026,mass spectrometer,261417,Singapore,Singapore,108724,1
+HF-034,02/06/2026,PCR machine,22892,France,Paris,39417,3
+Iv-612,04/06/2026,gene sequencer,208888,Ethiopia,Addis Ababa,123055,1
+0B-221,05/06/2026,gene sequencer,146786,USA,New York,119846,2
+4c-844,06/06/2026,mass spectrometer,119162,Qatar,Doha,57157,1
+34-073,06/06/2026,mass spectrometer,198199,France,Paris,113530,1
+40-729,06/06/2026,centrifuge,13765,Germany,Frankfurt,44291,7
+99-104,07/06/2026,spectrophotometer,6568,USA,New York,7903,2
+f4-453,07/06/2026,PCR machine,23265,Germany,Frankfurt,84541,7
+3m-289,07/06/2026,centrifuge,10062,USA,San Francisco,7889,2
+uR-545,08/06/2026,electrophoresis system,3586,France,Paris,6933,5
+A1-459,08/06/2026,microarray scanner,46686,Australia,Melbourne,17069,1
+L7-366,08/06/2026,electrophoresis system,3848,Australia,Sydney,11440,7
+5V-172,08/06/2026,mass spectrometer,318788,USA,New York,307062,2
+3F-968,09/06/2026,PCR machine,22853,Singapore,Singapore,33125,3
+66-263,10/06/2026,gene sequencer,203918,Argentina,Buenos Aires,119846,1
+0h-575,11/06/2026,PCR machine,7223,USA,Atlanta,11625,3
+I0-217,11/06/2026,mass spectrometer,150291,South Korea,Seoul,57252,1
+64-611,13/06/2026,mass spectrometer,188870,France,Paris,72524,1
+1X-039,14/06/2026,spectrophotometer,10783,South Korea,Seoul,8947,2
